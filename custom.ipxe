@@ -2,13 +2,11 @@
 ###
 ### netboot.xyz-custom menu
 ###
-console --picture https://file.garden/aUYIWVAKvQxCBY-_/database/images/shay.jpeg
 menu HashIt
 item --gap Android
 item kitkat Android Kitkat
 item kitkat Android Lollipop
 item --gap More Coming Soon, Stay Tuned!
-item --gap iCarly is made by Dan Schneider, Nickelodeon and Paramount.
 
 :kitkat
 kernel https://boot.netboot.xyz/memdisk raw iso
